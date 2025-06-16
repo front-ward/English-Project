@@ -300,3 +300,7 @@ match (user_input("What will you do?\na: Watch the full eclipse with your friend
     case "b":
         print("b: You go to class.")
         go_to_class()
+
+
+
+# citations
