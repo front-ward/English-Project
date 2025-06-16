@@ -303,4 +303,5 @@ match (user_input("What will you do?\na: Watch the full eclipse with your friend
 
 
 
-# citations
+# yup citations
+# This code is a creative writing project that simulates a narrative experience
